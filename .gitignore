@@ -34,3 +34,4 @@ tweets_text_only.txt
 *.swp
 *.swo
 .DS_Store
+tweets.js
